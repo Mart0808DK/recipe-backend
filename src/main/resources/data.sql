@@ -1,4 +1,4 @@
-USE recipes;
+USE recipe_db;
 
 
 INSERT INTO categories (name,created,edited) VALUES ('Beef',NOW(),NOW());
